@@ -10,9 +10,50 @@
 ![Image](https://user-images.githubusercontent.com/31867034/31365628-5be90d0a-ad3a-11e7-9eb1-06358fc96f75.png)
   
   This proposal through a curated combination of bibliographies and machine learning methods,proposes to examine 3500 British travel writing texts,in order to examine and challenge the received literary histories of the genre. It's relevance to my keyword "narration",is that it takes into account the concerns and inevitable changes that went into crafting a balanced personal narrative between the years 1700 and 1830. It not only addresses but provides examples on why and how personal narration,as evidence of experience,was becoming a more important concern than a mere tool for reflection. What it does well is outline specific questions it wishes to ask and offers specific details on how it will go about attempting to answer them. It exemplifies digital pedagogy by sharing it's findings and methodology on varied public forums. 
+  
+  
+  
+![Image](https://user-images.githubusercontent.com/31867034/31362074-a73e9754-ad24-11e7-9ba1-270f2ab5f435.png)
 
-
-Works Cited
+  This website integrates geographical data such as names of places in various languages, elevation and population from various sources and allows its users to manually edit,correct and add new names using a user friendly wiki interface.  It provides a list of ambassadors from many countries who can assist with their expertise free of charge. Unlike OpenStreetMap it does not depend on how well an area is mapped and can be a good supplement,particularly when sites like OpenStreetMap become too detailed. The combination of these two tools would make more sense because what you georeferenced could also show up on a map when you link to it. It is interesting the diverse way in which these tools are being utilized,for example,in the proposal "Real and Imagined Geography at City-Scale: Sentiment Analysis of Chicago's "One Book" Program" they plan to apply these sites to see if the sentiment measures for their "Reading Chicago Reading" project map in inconsistent ways for different neighbourhoods. Organizations in many fields could also support their people who work on projects abroad to map out the infrastructure they are supporting. 
+  
+  
+  Works Cited
+  
+Lucic, Ana, and John Shanahan.  Real and Imagined Geography at City-Scale:  Sentiment Analysis of Chicago's "One Book" Program. 2017.  
+  Digital Humanities 2017 Conference Abstracts.  Web.  2 September 2017.
+  
+Nygren, Catherine.  Text Mining Eighteenth Century Travel Writing:  The "I" and Autobiography of Narration.  2017.  Digital Humanities
+  2017 Conference Abstracts.  Web.  2 September 2017.
 
 Viehauser, Gabriel, and Marian Florian Barth.  Towards a Digital Naratology of Space. 2017.  Digitial Humanities 2017 Conference 
   Abstracts.  Web.  2 September 2017.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+W
