@@ -1,5 +1,4 @@
-###Digital Humanities Artefacts
+#Digital Humanities Artefacts
 
 
-![Image](https://user-images.githubusercontent.com/31867034/31362047-7ebbda3a-ad24-11e7-984e-280909190143.png)
-
+![Image](https://user-images.githubusercontent.com/31867034/31364191-2a2a8b30-ad31-11e7-84fa-d1dd5f3ec1b7.png)
