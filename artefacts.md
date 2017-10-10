@@ -45,3 +45,6 @@ Works Cited
 
 Viehauser, Gabriel, and Marian Florian Barth.  Towards a Digital Naratology of Space. 2017.  Digitial Humanities 2017 Conference 
   Abstracts.  Web.  2 September 2017.
+  
+  
+  ![Image](https://user-images.githubusercontent.com/31867034/31365628-5be90d0a-ad3a-11e7-9eb1-06358fc96f75.png)
