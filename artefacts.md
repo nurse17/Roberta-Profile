@@ -7,7 +7,7 @@ This proposal discusses the challenges posed in the digital formalization of spa
 
 ## Artifact Title 
 
-![screenshot](https://raw.githubusercontent.com/sgsinclair/digitalhumanities/master/Teichmann.jpg)
+![screenshot]
 
 * Artifact Type: (article, syllabus, tool, etc.)
 * Source URL: 
@@ -19,7 +19,7 @@ An annotation of **no more than 150 words**
 
 ## Artifact Title 
 
-![screenshot](images/archive-composing digital media.jpg)
+![screenshot]
 
 * Artifact Type: (article, syllabus, tool, etc.)
 * Source URL: 
@@ -31,7 +31,7 @@ An annotation of **no more than 150 words**
 
 ## Artifact Title 
 
-![screenshot](images/archive-composing digital media.jpg)
+![screenshot]
 
 * Artifact Type: (article, syllabus, tool, etc.)
 * Source URL: 
