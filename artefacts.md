@@ -30,6 +30,41 @@ Viehauser, Gabriel, and Marian Florian Barth.  Towards a Digital Naratology of S
   Abstracts.  Web.  2 September 2017.
   
   
+
+## Artifact Title 
+
+![screenshot]
+* Artifact Type: (article, syllabus, tool, etc.)
+* Source URL: 
+* Permissions: 
+* Creator and Affiliation:
+* Tags: (getting started/advanced; tool used)
+
+An annotation of **no more than 150 words**
+
+## Artifact Title 
+
+![screenshot]
+* Artifact Type: (article, syllabus, tool, etc.)
+* Source URL: 
+* Permissions: 
+* Creator and Affiliation:
+* Tags: (getting started/advanced; tool used)
+
+An annotation of **no more than 150 words**
+
+## Artifact Title 
+
+![screenshot]
+
+* Artifact Type: (article, syllabus, tool, etc.)
+* Source URL: 
+* Permissions: 
+* Creator and Affiliation:
+* Tags: (getting started/advanced; tool used)
+
+An annotation of **no more than 150 words**
+  
   
   
   
@@ -56,4 +91,4 @@ Viehauser, Gabriel, and Marian Florian Barth.  Towards a Digital Naratology of S
   
 
 
-W
+
